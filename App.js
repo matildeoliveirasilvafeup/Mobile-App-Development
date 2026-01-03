@@ -1329,7 +1329,7 @@ export default function App() {
 	if (screen === 'login') {
 		return (
 			<ScrollView contentContainerStyle={styles.container}>
-				<Text style={styles.title}> Vita4All</Text>
+				<Text style={styles.title}> SafeClick</Text>
 				<Text style={styles.subtitle}>Sistema de Emergência com Firebase</Text>
 
 				<TextInput
@@ -2119,7 +2119,7 @@ export default function App() {
 					</View>
 				</View>
 
-				<Text style={styles.title}> Vita4All</Text>
+				<Text style={styles.title}> SafeClick</Text>
 
 				<View style={styles.infoBox}>
 					<Text style={styles.infoText}>🏠 Morada: {userData.morada}, {userData.cidade}</Text>
