@@ -29,32 +29,32 @@ SafeClickApp is a mobile application prototype focused on real-time notification
 
 1. **Clone the repository**:
 
-git clone git@github.com:matildeoliveirasilvafeup/Mobile-App-Development.git
+  git clone git@github.com:matildeoliveirasilvafeup/Mobile-App-Development.git
 
 2. **Navigate to the project folder**:
 
-cd SafeClickApp
+  cd SafeClickApp
 
 
 3. **Install dependencies**:
 
-npm install
+  npm install
 
 
 4. **Start the development server**:
 
-npm start
+  npm start
 
 
 5. **Open the app on a mobile device using Expo Go**
 
-Scan the QR code displayed in the terminal or browser
+  Scan the QR code displayed in the terminal or browser
 
-The app will load on your device for testing
+  The app will load on your device for testing
 
 
 ## Notes
 
-Project is a prototype and not publicly released.
+  Project is a prototype and not publicly released.
 
-Further improvements on UX and interactivity are ongoing.
+  Further improvements on UX and interactivity are ongoing.
