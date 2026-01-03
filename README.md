@@ -29,7 +29,6 @@ SafeClickApp is a mobile application prototype focused on real-time notification
 
 1. Clone the repository:
 
-```bash
 git clone git@github.com:matildeoliveirasilvafeup/Mobile-App-Development.git
 
 Navigate to the project folder:
